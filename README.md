@@ -6,3 +6,6 @@ Como o exercício era apresentar uma pessoa. Procurei fazer uma página que esco
 A página ficou dividida como aside, main e footer;
 
 Foi usado o HTML e CSS.
+
+Disponível em: https://codepen.io/SilvaNatasha/full/MWVKXyB
+&hearts;
